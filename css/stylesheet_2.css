@@ -1,0 +1,28 @@
+.header{
+    width:100%;
+    margin:231px auto 231px auto;
+    text-align: center;
+}
+
+.headert > h1{
+    font-size: 48px;
+}
+
+.survey > form > input{
+    width:300px;
+    height:40px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 5px;
+    margin-top: 24px;
+}
+
+.survey > form{
+    color:black;
+    font-weight:bold;
+    cursor: pointer;
+}
+
+.next {
+    background-color: blue;
+    color: white;
+}
